@@ -1,0 +1,105 @@
+{
+ "symbol": "OCB",
+ "fetchedAt": "2026-11-15T04:06:06.295Z",
+ "jobs": {
+  "fa_q": {
+   "tool": "get_stock_fa_bank",
+   "ok": true,
+   "note": "Dữ liệu giới hạn 17 quý gần nhất theo gói của bạn."
+  },
+  "fa_y": {
+   "tool": "get_stock_fa_bank",
+   "ok": true,
+   "note": "Dữ liệu giới hạn từ 2018 theo gói của bạn."
+  },
+  "valuation_1m": {
+   "tool": "get_stock_valuation",
+   "ok": true
+  },
+  "valuation_1d": {
+   "tool": "get_stock_valuation",
+   "ok": true
+  },
+  "price": {
+   "tool": "get_price_history",
+   "ok": true,
+   "rows": 745,
+   "note": "Dữ liệu giới hạn từ 2023-11-16 theo gói của bạn.",
+   "range": "2023-11-16 -> 2026-11-13"
+  },
+  "vnindex": {
+   "tool": "get_price_history",
+   "ok": true,
+   "rows": 745,
+   "note": "Dữ liệu giới hạn từ 2023-11-16 theo gói của bạn.",
+   "range": "2023-11-16 -> 2026-11-13"
+  },
+  "active_flow": {
+   "tool": "get_active_flow",
+   "ok": true,
+   "rows": 500,
+   "range": "2024-11-11 -> 2026-11-13"
+  },
+  "power_rs6": {
+   "tool": "get_power_scores",
+   "ok": true
+  },
+  "power_rs3": {
+   "tool": "get_power_scores",
+   "ok": true
+  },
+  "stock_rrg": {
+   "tool": "get_stock_rrg",
+   "ok": true
+  },
+  "peers_rrg": {
+   "tool": "get_stock_rrg",
+   "ok": true
+  },
+  "elite_diag": {
+   "tool": "get_elite_diagnostic",
+   "ok": true
+  },
+  "elite_sector": {
+   "tool": "get_elite_stocks",
+   "ok": true
+  },
+  "sector_rrg": {
+   "tool": "get_sector_rrg",
+   "ok": true
+  },
+  "sector_fa": {
+   "tool": "get_sector_fa",
+   "ok": true
+  },
+  "sector_val_all": {
+   "tool": "get_sector_valuation",
+   "ok": true
+  },
+  "sector_val_hist": {
+   "tool": "get_sector_valuation",
+   "ok": true
+  },
+  "market_state": {
+   "tool": "get_market_state",
+   "ok": true
+  },
+  "market_sentiment": {
+   "tool": "get_market_sentiment",
+   "ok": true
+  },
+  "money_diffusion": {
+   "tool": "get_money_flow_diffusion",
+   "ok": true
+  },
+  "market_val": {
+   "tool": "get_market_valuation",
+   "ok": true,
+   "note": "Dữ liệu giới hạn từ 2016-11-17 theo gói của bạn."
+  }
+ },
+ "sectorId": 24,
+ "sectorName": "Ngân hàng",
+ "exchange": "HOSE",
+ "structure": "bank"
+}

@@ -1,0 +1,1452 @@
+{
+ "meta": {
+  "symbol": "IDC",
+  "name": "Tổng Công ty IDICO - CTCP",
+  "exchange": "HNX",
+  "sectorId": 4,
+  "sectorName": "Khu công nghiệp",
+  "structure": "nonfinancial",
+  "fetchedAt": "2026-11-15T03:26:18.500Z",
+  "packageNotes": {
+   "fa_q": "Dữ liệu giới hạn 17 quý gần nhất theo gói của bạn.",
+   "fa_y": "Dữ liệu giới hạn từ 2018 theo gói của bạn.",
+   "price": "Dữ liệu giới hạn từ 2023-11-16 theo gói của bạn.",
+   "vnindex": "Dữ liệu giới hạn từ 2023-11-16 theo gói của bạn.",
+   "market_val": "Dữ liệu giới hạn từ 2016-11-17 theo gói của bạn."
+  },
+  "failedJobs": {},
+  "asOf": "2026-11-13"
+ },
+ "price": {
+  "date": "2026-11-13",
+  "close": 35.0,
+  "changePct": -1.96,
+  "marketCapBil": 14610.64,
+  "ret_1w": 0.287,
+  "vnindex_ret_1w": 0.555,
+  "rel_1w": -0.268,
+  "ret_1m": 3.858,
+  "vnindex_ret_1m": 2.154,
+  "rel_1m": 1.704,
+  "ret_3m": 2.339,
+  "vnindex_ret_3m": -1.739,
+  "rel_3m": 4.078,
+  "ret_6m": -6.184,
+  "vnindex_ret_6m": -10.011,
+  "rel_6m": 3.827,
+  "ret_1y": 9.816,
+  "vnindex_ret_1y": 8.494,
+  "rel_1y": 1.322,
+  "ret_ytd": 10.311,
+  "vnindex_ret_ytd": -2.777,
+  "high_52w": 45.152,
+  "low_52w": 30.0,
+  "from_high_pct": -22.484,
+  "from_low_pct": 16.667,
+  "ma20": 35.14,
+  "above_ma20": false,
+  "ma50": 33.884,
+  "above_ma50": true,
+  "ma100": 33.706,
+  "above_ma100": true,
+  "ma200": 36.674,
+  "above_ma200": false,
+  "ma50_slope_20d_pct": 2.598,
+  "rsi14": 51.291,
+  "macd": 0.331,
+  "macd_signal": 0.341,
+  "macd_hist": -0.01,
+  "macd_hist_prev": 0.031,
+  "atr14_pct": 3.408,
+  "vol_annual_pct": 37.022,
+  "max_drawdown_1y_pct": -33.558,
+  "avg_value_20_bil": 40.414,
+  "avg_value_60_bil": 52.675,
+  "value_ratio_20_60": 0.767,
+  "avg_matched_20_bil": 31.741,
+  "putthrough_share_60_pct": 25.793,
+  "putthrough_max_60": {
+   "date": "2026-10-05",
+   "bil": 550.9
+  },
+  "beta_1y": 0.878,
+  "corr_1y": 0.459,
+  "marketCapSource": "sector_companies"
+ },
+ "flows": {
+  "foreign_net_5_bil": 9.002,
+  "foreign_net_20_bil": 108.897,
+  "foreign_net_60_bil": 32.138,
+  "foreign_net_250_bil": 788.012,
+  "foreign_streak_days": -3,
+  "proprietary_net_5_bil": 0.0,
+  "proprietary_net_20_bil": -7.912,
+  "proprietary_net_60_bil": -0.711,
+  "active_net_5_bil": -4.857,
+  "active_ratio_5": -0.035,
+  "active_net_20_bil": 87.722,
+  "active_ratio_20": 0.138,
+  "active_net_60_bil": 153.413,
+  "active_ratio_60": 0.065,
+  "active_net_250_bil": -1346.791,
+  "active_ratio_250": -0.065
+ },
+ "rs": {
+  "rs3": 84.053,
+  "rs6": 76.918,
+  "rs3D5": 0.51,
+  "rs6D5": 2.185,
+  "quadrant": "leading",
+  "vcr": 0.812,
+  "bubbleClass": "tram_lang",
+  "amfi": 0.138,
+  "amfiClass": "phe_mua_chiem_uu",
+  "bear20Active": false,
+  "bull10Active": false,
+  "lastBearDate": "2026-10-26",
+  "lastBullDate": "2024-01-24",
+  "gtgdTier": 1,
+  "inElite": false,
+  "entryStreak": 0,
+  "netForeign20": 108.897,
+  "gtgdAvg20_bil": 31.741,
+  "asOf": "2026-11-13",
+  "power_rs6": {
+   "now": 76.918,
+   "5d": 74.733,
+   "20d": 57.979,
+   "60d": 22.553,
+   "max_1y": 94.565,
+   "min_1y": 12.392,
+   "sector_now": 41.463,
+   "sector_20d": 9.756
+  },
+  "power_rs3": {
+   "now": 84.053,
+   "5d": 83.543,
+   "20d": 82.053,
+   "60d": 32.148,
+   "max_1y": 96.037,
+   "min_1y": 8.893,
+   "sector_now": 58.537,
+   "sector_20d": 34.146
+  },
+  "rank_in_sector_rs3": 2,
+  "n_peers_tracked": 8
+ },
+ "elite": {
+  "asOf": "2026-11-13",
+  "openEpisode": null,
+  "pillars": 4,
+  "pillarsPassed": {
+   "rs": true,
+   "vcr": false,
+   "amfi": true,
+   "tier1": true,
+   "noBear": true
+  },
+  "missingPillars": [
+   "VCR (≥1.0)"
+  ],
+  "guardsTripped": [
+   {
+    "guard": 2,
+    "label": "Không phải cổ phiếu HOSE 3 ký tự",
+    "detail": "không thoả HOSE/3 ký tự"
+   },
+   {
+    "guard": 9,
+    "label": "Đang trong cooldown sau guard-5 (20 phiên)",
+    "detail": "cooldown đang hiệu lực tại phiên này"
+   }
+  ],
+  "inExitCooldown": false,
+  "values": {
+   "rs3": 84.05,
+   "rs6": 76.92,
+   "vcr": 0.81,
+   "amfi": 0.138,
+   "gtgd20": 31.74,
+   "bear20": false,
+   "bigUp10p": 1,
+   "priceUp5p": 0.29,
+   "dd30p": -4.11,
+   "dd20p": -4.11,
+   "da5": 2.69
+  },
+  "persistence": 0,
+  "notEliteReasons": [
+   "Chỉ đạt 4/5 trục — điều kiện vào yêu cầu đủ 5/5 (thiếu: VCR (≥1.0)).",
+   "Guard-2: Không phải cổ phiếu HOSE 3 ký tự — không thoả HOSE/3 ký tự.",
+   "Guard-9: Đang trong cooldown sau guard-5 (20 phiên) — cooldown đang hiệu lực tại phiên này."
+  ],
+  "sector_open": []
+ },
+ "fa": {
+  "latest_period": "2026Q3",
+  "periods": [
+   "2022Q3",
+   "2022Q4",
+   "2023Q1",
+   "2023Q2",
+   "2023Q3",
+   "2023Q4",
+   "2024Q1",
+   "2024Q2",
+   "2024Q3",
+   "2024Q4",
+   "2025Q1",
+   "2025Q2",
+   "2025Q3",
+   "2025Q4",
+   "2026Q1",
+   "2026Q2",
+   "2026Q3"
+  ],
+  "kpi": [
+   {
+    "label": "Doanh thu thuần (Q)",
+    "series": "netRevenue",
+    "kind": "bil",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 2075.58,
+    "qoq": -8.584,
+    "yoy": -27.714,
+    "last8": [
+     1955.33,
+     1793.48,
+     1763.2,
+     2871.33,
+     2160.14,
+     1485.52,
+     2270.49,
+     2075.58
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "LNST cty mẹ (Q)",
+    "series": "netProfitParent",
+    "kind": "bil",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 492.84,
+    "qoq": -19.181,
+    "yoy": -41.457,
+    "last8": [
+     357.42,
+     343.28,
+     297.57,
+     841.84,
+     449.1,
+     270.6,
+     609.81,
+     492.84
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "Doanh thu TTM",
+    "series": "netRevenueTTM",
+    "kind": "bil",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 7991.73,
+    "qoq": -9.055,
+    "yoy": -4.671,
+    "last8": [
+     8846.41,
+     8172.84,
+     7787.55,
+     8383.35,
+     8588.15,
+     8280.19,
+     8787.48,
+     7991.73
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "LNST TTM",
+    "series": "netProfitParentTTM",
+    "kind": "bil",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 1822.35,
+    "qoq": -16.073,
+    "yoy": -0.965,
+    "last8": [
+     1996.06,
+     1644.2,
+     1509.28,
+     1840.11,
+     1931.79,
+     1859.11,
+     2171.35,
+     1822.35
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "Biên gộp (Q)",
+    "series": "grossMarginPct",
+    "kind": "pct",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 32.37,
+    "qoq": -5.02,
+    "yoy": -11.41,
+    "last8": [
+     32.52,
+     30.74,
+     30.88,
+     43.78,
+     32.73,
+     26.17,
+     37.39,
+     32.37
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "Biên gộp TTM",
+    "series": "grossMarginTTMPct",
+    "kind": "pct",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 32.74,
+    "qoq": -3.7,
+    "yoy": -2.91,
+    "last8": [
+     37.72,
+     34.14,
+     32.42,
+     35.65,
+     35.63,
+     34.99,
+     36.44,
+     32.74
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "Biên ròng TTM",
+    "series": "netMarginTTMPct",
+    "kind": "pct",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 22.8,
+    "qoq": -1.91,
+    "yoy": 0.85,
+    "last8": [
+     22.56,
+     20.12,
+     19.38,
+     21.95,
+     22.49,
+     22.45,
+     24.71,
+     22.8
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "ROE TTM",
+    "series": "roeTTMPct",
+    "kind": "pct",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 23.49,
+    "qoq": -7.49,
+    "yoy": -6.41,
+    "last8": [
+     35.67,
+     29.54,
+     27.13,
+     29.9,
+     30.43,
+     28.47,
+     30.98,
+     23.49
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "ROA TTM",
+    "series": "roaTTMPct",
+    "kind": "pct",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 9.27,
+    "qoq": -2.42,
+    "yoy": -2.15,
+    "last8": [
+     13.1,
+     10.94,
+     9.93,
+     11.42,
+     11.21,
+     10.59,
+     11.69,
+     9.27
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "EBITDA (Q)",
+    "series": "ebitda",
+    "kind": "bil",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 831.33,
+    "qoq": -14.83,
+    "yoy": -48.782,
+    "last8": [
+     876.83,
+     757.58,
+     695.06,
+     1623.11,
+     970.67,
+     602.44,
+     976.08,
+     831.33
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "Nợ vay",
+    "series": "debt",
+    "kind": "bil",
+    "better": "down",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 5497.12,
+    "qoq": 3.528,
+    "yoy": 33.444,
+    "last8": [
+     3136.03,
+     3413.04,
+     3432.72,
+     4119.41,
+     5877.16,
+     5743.56,
+     5309.81,
+     5497.12
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "Nợ vay/Tổng nguồn vốn",
+    "series": "debtOverTotalCapitalPct",
+    "kind": "pct",
+    "better": "down",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 23.26,
+    "qoq": 0.71,
+    "yoy": 3.91,
+    "last8": [
+     16.68,
+     17.58,
+     17.51,
+     19.35,
+     25.33,
+     24.4,
+     22.55,
+     23.26
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "Tiền & tương đương",
+    "series": "cashBank",
+    "kind": "bil",
+    "better": null,
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 7044.38,
+    "qoq": -3.797,
+    "yoy": 6.933,
+    "last8": [
+     4542.5,
+     5281.09,
+     4935.58,
+     6587.64,
+     7460.07,
+     7742.39,
+     7322.43,
+     7044.38
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "Hàng tồn kho",
+    "series": "inventory",
+    "kind": "bil",
+    "better": null,
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 8160.75,
+    "qoq": 5.471,
+    "yoy": 522.084,
+    "last8": [
+     1400.6,
+     1352.14,
+     1326.63,
+     1311.84,
+     1298.62,
+     1336.54,
+     7737.43,
+     8160.75
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "Tồn kho/Tổng TS",
+    "series": "inventoryOverTotalAssetsPct",
+    "kind": "pct",
+    "better": null,
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 34.53,
+    "qoq": 1.67,
+    "yoy": 28.37,
+    "last8": [
+     7.45,
+     6.97,
+     6.77,
+     6.16,
+     5.6,
+     5.68,
+     32.86,
+     34.53
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "XDCB dở dang",
+    "series": "constructionWip",
+    "kind": "bil",
+    "better": null,
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 981.15,
+    "qoq": 3.648,
+    "yoy": -81.741,
+    "last8": [
+     4958.75,
+     4961.23,
+     5532.2,
+     5373.55,
+     7094.24,
+     7214.74,
+     946.62,
+     981.15
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "LCTT HĐKD (Q)",
+    "series": "operating",
+    "kind": "bil",
+    "better": "up",
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 216.62,
+    "qoq": 206.952,
+    "yoy": -85.948,
+    "last8": [
+     504.13,
+     593.19,
+     809.02,
+     1541.53,
+     970.2,
+     197.52,
+     -202.54,
+     216.62
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   },
+   {
+    "label": "LCTT HĐĐT (Q)",
+    "series": "investing",
+    "kind": "bil",
+    "better": null,
+    "period": "2026Q3",
+    "suspect": false,
+    "value": 93.76,
+    "qoq": -80.5,
+    "yoy": 104.181,
+    "last8": [
+     -166.89,
+     -745.14,
+     -1693.08,
+     -2242.3,
+     -2329.37,
+     -68.61,
+     480.83,
+     93.76
+    ],
+    "last8_periods": [
+     "2024Q4",
+     "2025Q1",
+     "2025Q2",
+     "2025Q3",
+     "2025Q4",
+     "2026Q1",
+     "2026Q2",
+     "2026Q3"
+    ]
+   }
+  ],
+  "derived": {
+   "netDebt": -1547.26,
+   "netDebtToEquityPct": -21.326,
+   "equityApprox": 7255.37,
+   "ebitOverFinExpenseTTM": 13.282,
+   "ocfTTM": 1181.8,
+   "investingTTM": -1823.39,
+   "fcfTTM": -641.59,
+   "ocfToNetProfitTTM": 0.649,
+   "netProfitTTMYoYPct": -0.965,
+   "netProfitTTMQoQPct": -16.073,
+   "revenueTTMYoYPct": -4.671
+  },
+  "ytd": {
+   "netRevenue": {
+    "label": "9T/2026",
+    "value": 5831.59,
+    "prev": 6428.01,
+    "yoyPct": -9.278
+   },
+   "netProfitParent": {
+    "label": "9T/2026",
+    "value": 1373.25,
+    "prev": 1482.69,
+    "yoyPct": -7.381
+   }
+  },
+  "bs_events": [
+   "2026Q2: XDCB dở dang -6,268 ↔ Hàng tồn kho +6,401 tỷ (bù trừ nhau, khả năng phân loại lại tài sản)",
+   "2025Q3: Vốn điều lệ 3,300 → 3,795 tỷ (+15.0%); LNST quý 842, Δquỹ&LNGPP +343 → khớp chuyển từ LNGPP sang vốn → cổ tức CP/thưởng, không có tiền mới (cần tin DN)",
+   "2026Q3: Vốn điều lệ 3,795 → 4,174 tỷ (+10.0%); LNST quý 493, Δquỹ&LNGPP +113 → khớp chuyển từ LNGPP sang vốn → cổ tức CP/thưởng, không có tiền mới (cần tin DN)"
+  ],
+  "annual": {
+   "years": [
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "rows": {
+    "netRevenue": [
+     5119.28,
+     4928.75,
+     4541.86,
+     4301.24,
+     7485.39,
+     7237.03,
+     8846.41,
+     8588.15
+    ],
+    "netProfitParent": [
+     349.46,
+     344.7,
+     304.43,
+     454.31,
+     1767.51,
+     1393.65,
+     1996.06,
+     1931.79
+    ],
+    "grossMarginPct": [
+     17.86,
+     17.0,
+     17.06,
+     17.14,
+     40.88,
+     33.48,
+     37.72,
+     35.63
+    ],
+    "netMarginPct": [
+     6.83,
+     6.99,
+     6.7,
+     10.56,
+     23.61,
+     19.26,
+     22.56,
+     22.49
+    ],
+    "roePct": [
+     11.91,
+     11.34,
+     9.97,
+     12.28,
+     36.84,
+     26.86,
+     35.67,
+     30.43
+    ],
+    "debt": [
+     2881.92,
+     2644.19,
+     2754.43,
+     3532.38,
+     3467.77,
+     3522.51,
+     3136.03,
+     5877.16
+    ],
+    "operating": [
+     1116.65,
+     897.72,
+     519.13,
+     774.25,
+     2065.39,
+     2734.85,
+     4085.22,
+     3913.94
+    ]
+   }
+  },
+  "dataQuality": []
+ },
+ "valuation": {
+  "snapshot": {
+   "pe": 8.017,
+   "pb": 2.044,
+   "eps": 4365.465,
+   "roe": 23.487,
+   "roa": 9.267,
+   "marketCap": 14610640240000,
+   "sharesOutstanding": 417446864
+  },
+  "peSstock": 7.628,
+  "pbSstock": 1.945,
+  "peSstockFrozenSince": "2026-07-24",
+  "pe": {
+   "current": 8.017,
+   "avg3Y": 10.3,
+   "median10y": 10.16,
+   "mean10y": 13.914,
+   "std10y": 8.602,
+   "min10y": 3.77,
+   "max10y": 38.57,
+   "pctile10y": 22.115,
+   "negative_months": 0,
+   "outlier_months": [
+    "2018-04-27",
+    "2018-06-29",
+    "2021-11-30",
+    "2022-02-28",
+    "2022-03-31",
+    "2023-10-31",
+    "2023-11-30",
+    "2023-12-29"
+   ],
+   "avg3Y_distorted": false
+  },
+  "pb": {
+   "current": 2.044,
+   "avg3Y": 4.33,
+   "median10y": 3.095,
+   "mean10y": 5.168,
+   "std10y": 5.113,
+   "min10y": 2.0,
+   "max10y": 27.21,
+   "pctile10y": 2.885,
+   "outlier_months": [
+    "2023-01-31",
+    "2023-02-28",
+    "2023-03-31",
+    "2023-04-28",
+    "2023-05-31",
+    "2023-06-30",
+    "2023-07-31",
+    "2023-08-31",
+    "2023-09-29",
+    "2023-10-31",
+    "2023-11-30",
+    "2023-12-29"
+   ],
+   "avg3Y_distorted": true
+  },
+  "implied_price": {
+   "at_pe_avg3Y": 44.964,
+   "at_pe_median10y": 44.353,
+   "at_pb_avg3Y": null,
+   "at_pb_median10y": 52.995
+  },
+  "sector": {
+   "pe": 12.082,
+   "pb": 1.251,
+   "avg3YPe": 15.637,
+   "avg3YPb": 1.816,
+   "date": "2026-11-13"
+  },
+  "pe_vs_sector_pct": -33.644,
+  "pb_vs_sector_pct": 63.451,
+  "sector_pe_disc_rank": 23,
+  "n_sectors": 42,
+  "market": {
+   "pe": 10.9,
+   "pe_avg3Y": 13.26,
+   "pb": 1.91,
+   "pb_avg3Y": 1.89,
+   "date": "2026-11-13"
+  }
+ },
+ "sector": {
+  "rrg": {
+   "sectorName": "Khu công nghiệp",
+   "rs3": 58.537,
+   "rs6": 41.463,
+   "quadrant": "improving",
+   "vcr": 1.036,
+   "bubbleClass": "tang",
+   "breadthPct": 48.0,
+   "warning": false,
+   "totalMack": 25,
+   "stocksAboveMa50": 12,
+   "streakDays": 0,
+   "rank_rs3": 18.0,
+   "rank_rs6": 25.0,
+   "n_sectors": 42,
+   "warningEvents": {
+    "waveWeakening": false,
+    "waveBreadthDrop": false,
+    "qualityTrap": false,
+    "weakEntry": false
+   }
+  },
+  "top_sectors_rs3": [
+   {
+    "sectorName": "Họ Vingroup",
+    "rs3": 100.0,
+    "rs6": 97.561,
+    "quadrant": "leading"
+   },
+   {
+    "sectorName": "Công nghiệp nặng",
+    "rs3": 97.561,
+    "rs6": 92.683,
+    "quadrant": "leading"
+   },
+   {
+    "sectorName": "Khai khoáng",
+    "rs3": 95.122,
+    "rs6": 100.0,
+    "quadrant": "leading"
+   },
+   {
+    "sectorName": "DV Du lịch & giải trí",
+    "rs3": 92.683,
+    "rs6": 90.244,
+    "quadrant": "leading"
+   },
+   {
+    "sectorName": "Cảng & Kho bãi",
+    "rs3": 90.244,
+    "rs6": 95.122,
+    "quadrant": "leading"
+   }
+  ],
+  "quadrant_counts": {
+   "lagging": 17,
+   "leading": 17,
+   "improving": 4,
+   "weakening": 4
+  },
+  "fa": {
+   "netRevenue_share_ttm_pct": 9.761,
+   "sector_netRevenue_ttm_yoy_pct": 3.204,
+   "stock_netRevenue_ttm_yoy_pct": -4.671,
+   "netProfitParent_share_ttm_pct": 17.213,
+   "sector_netProfitParent_ttm_yoy_pct": -19.53,
+   "stock_netProfitParent_ttm_yoy_pct": -0.965,
+   "stock_grossMarginPct": 32.37,
+   "sector_grossMarginPct": 21.29,
+   "stock_netMarginPct": 23.74,
+   "sector_netMarginPct": 13.4,
+   "companyCount": 25
+  },
+  "companyCount": 25,
+  "totalMarketCapBil": 127916.76,
+  "stock_cap_share_pct": 11.422
+ },
+ "peers": [
+  {
+   "symbol": "BCM",
+   "exchange": "HOSE",
+   "marketCapBil": 38450.25,
+   "rs3": 25.449,
+   "rs6": 21.881,
+   "quadrant": "lagging",
+   "vcr": 1.004,
+   "amfi": -0.174,
+   "gtgdAvg20_bil": 24.117,
+   "changePct": -1.849,
+   "inElite": false
+  },
+  {
+   "symbol": "KBC",
+   "exchange": "HOSE",
+   "marketCapBil": 25239.03,
+   "rs3": 73.821,
+   "rs6": 48.566,
+   "quadrant": "improving",
+   "vcr": 1.041,
+   "amfi": 0.072,
+   "gtgdAvg20_bil": 34.172,
+   "changePct": -0.372,
+   "inElite": false
+  },
+  {
+   "symbol": "IDC",
+   "exchange": "HNX",
+   "marketCapBil": 14610.64,
+   "rs3": 84.053,
+   "rs6": 76.918,
+   "quadrant": "leading",
+   "vcr": 0.812,
+   "amfi": 0.138,
+   "gtgdAvg20_bil": 31.741,
+   "changePct": -1.961,
+   "inElite": false
+  },
+  {
+   "symbol": "SIP",
+   "exchange": "HOSE",
+   "marketCapBil": 12081.44,
+   "rs3": 72.757,
+   "rs6": 57.505,
+   "quadrant": "leading",
+   "vcr": 1.34,
+   "amfi": -0.192,
+   "gtgdAvg20_bil": 5.658,
+   "changePct": -0.795,
+   "inElite": false
+  },
+  {
+   "symbol": "SZC",
+   "exchange": "HOSE",
+   "marketCapBil": 3752.71,
+   "rs3": 93.223,
+   "rs6": 86.724,
+   "quadrant": "leading",
+   "vcr": 1.896,
+   "amfi": -0.045,
+   "gtgdAvg20_bil": 20.568,
+   "changePct": 1.707,
+   "inElite": false
+  },
+  {
+   "symbol": "NTC",
+   "exchange": "HOSE",
+   "marketCapBil": 3076.8,
+   "rs3": 79.003,
+   "rs6": 75.384,
+   "quadrant": "leading",
+   "vcr": 1.068,
+   "amfi": 0.271,
+   "gtgdAvg20_bil": 1.142,
+   "changePct": -0.233,
+   "inElite": false
+  },
+  {
+   "symbol": "LHG",
+   "exchange": "HOSE",
+   "marketCapBil": 1345.32,
+   "rs3": 72.093,
+   "rs6": 74.049,
+   "quadrant": "leading",
+   "vcr": 1.012,
+   "amfi": -0.017,
+   "gtgdAvg20_bil": 1.536,
+   "changePct": 1.128,
+   "inElite": false
+  },
+  {
+   "symbol": "DTD",
+   "exchange": "HNX",
+   "marketCapBil": 704.2,
+   "rs3": 15.947,
+   "rs6": 12.742,
+   "quadrant": "lagging",
+   "vcr": 1.21,
+   "amfi": -0.116,
+   "gtgdAvg20_bil": 1.767,
+   "changePct": -1.031,
+   "inElite": false
+  }
+ ],
+ "market": {
+  "state": {
+   "date": "2026-11-13",
+   "state": "pressure",
+   "confidenceScore": 63.71,
+   "confidenceTier": "Medium",
+   "daysInCurrent": 73,
+   "breadthVn100Pct": 53,
+   "ddCount": 6,
+   "ddFlag": 0,
+   "lastTransition": {
+    "date": "2026-07-30",
+    "from": "downtrend",
+    "to": "pressure",
+    "reason": "ftd_fasttrack_D_to_P"
+   }
+  },
+  "latestFtd": {
+   "date": "2026-11-04",
+   "returns": 0.02,
+   "volume": 908590883,
+   "ddFlag": 0
+  },
+  "transitions": [
+   {
+    "date": "2026-07-30",
+    "from": "downtrend",
+    "to": "pressure",
+    "reason": "ftd_fasttrack_D_to_P",
+    "confidenceAtEvent": 41.6
+   },
+   {
+    "date": "2026-07-22",
+    "from": "pressure",
+    "to": "downtrend",
+    "reason": "shortcut_P_to_D_distance",
+    "confidenceAtEvent": 24.74
+   },
+   {
+    "date": "2026-03-27",
+    "from": "downtrend",
+    "to": "pressure",
+    "reason": "ftd_fasttrack_D_to_P",
+    "confidenceAtEvent": 38.48
+   },
+   {
+    "date": "2026-03-09",
+    "from": "pressure",
+    "to": "downtrend",
+    "reason": "shortcut_P_to_D_crash",
+    "confidenceAtEvent": 26.75
+   }
+  ],
+  "sentiment": {
+   "shortTerm": {
+    "score": 29,
+    "band": "Bi quan",
+    "chg_week": 1,
+    "chg_month": 0
+   },
+   "midTerm": {
+    "score": 33,
+    "band": "Bi quan",
+    "chg_week": 3,
+    "chg_month": 8
+   }
+  },
+  "diffusion": {
+   "smallCap": {
+    "score": 38,
+    "band": "Trung bình",
+    "chg_week": 3,
+    "chg_month": -5
+   },
+   "midCap": {
+    "score": 51,
+    "band": "Trung bình",
+    "chg_week": 0,
+    "chg_month": 27
+   },
+   "largeCap": {
+    "score": 21,
+    "band": "Yếu",
+    "chg_week": -2,
+    "chg_month": -6
+   },
+   "leader": "Vốn hóa vừa"
+  }
+ },
+ "signals": {
+  "groups": [
+   {
+    "group": "Xu hướng giá",
+    "score": 1,
+    "checks": [
+     {
+      "check": "Giá vs MA50",
+      "value": true,
+      "pt": 1,
+      "rule": "+1 trên MA50 / -1 dưới"
+     },
+     {
+      "check": "Giá vs MA200",
+      "value": false,
+      "pt": -1,
+      "rule": "+1 trên MA200 / -1 dưới"
+     },
+     {
+      "check": "MA50 dốc 20 phiên %",
+      "value": 2.6,
+      "pt": 1,
+      "rule": "+1 ≥+1% / -1 ≤-1%"
+     }
+    ]
+   },
+   {
+    "group": "Động lượng",
+    "score": 0,
+    "checks": [
+     {
+      "check": "RSI14",
+      "value": 51.29,
+      "pt": 0,
+      "rule": "+1 55–70 / -1 <40 hoặc >80"
+     },
+     {
+      "check": "MACD vs signal & 0",
+      "value": 0.33,
+      "pt": 0,
+      "rule": "+1 MACD>signal và >0 / -1 MACD<signal và <0"
+     },
+     {
+      "check": "Hiệu suất 3T vs VNINDEX (pp)",
+      "value": 4.08,
+      "pt": 0,
+      "rule": "+1 ≥+5pp / -1 ≤-5pp"
+     }
+    ]
+   },
+   {
+    "group": "Sức mạnh tương đối",
+    "score": 2,
+    "checks": [
+     {
+      "check": "Góc phần tư RRG",
+      "value": "leading",
+      "pt": 2,
+      "rule": "leading +2, improving +1, weakening -1, lagging -2"
+     },
+     {
+      "check": "RS6 (Sức mạnh trung hạn)",
+      "value": 76.92,
+      "pt": 1,
+      "rule": "+1 ≥70 / -1 ≤30"
+     },
+     {
+      "check": "RS3 thay đổi 5 phiên",
+      "value": 0.51,
+      "pt": 0,
+      "rule": "+1 ≥+5 / -1 ≤-5"
+     }
+    ]
+   },
+   {
+    "group": "Dòng tiền",
+    "score": 2,
+    "checks": [
+     {
+      "check": "VCR",
+      "value": 0.81,
+      "pt": 0,
+      "rule": "+1 ≥1.0 / -1 <0.8"
+     },
+     {
+      "check": "AMFI",
+      "value": 0.14,
+      "pt": 1,
+      "rule": "+1 >0.05 / -1 <-0.05"
+     },
+     {
+      "check": "Khối ngoại ròng 20 phiên (tỷ)",
+      "value": 108.9,
+      "pt": 1,
+      "rule": "+1 mua ròng / -1 bán ròng"
+     },
+     {
+      "check": "Mua-bán chủ động 20 phiên (tỷ)",
+      "value": 87.72,
+      "pt": 1,
+      "rule": "+1 >0 / -1 <0"
+     },
+     {
+      "check": "Phân kỳ giảm AMFI (bear20)",
+      "value": false,
+      "pt": 0,
+      "rule": "-1 nếu đang active"
+     }
+    ]
+   },
+   {
+    "group": "Tăng trưởng",
+    "score": -2,
+    "checks": [
+     {
+      "check": "LNST TTM YoY %",
+      "value": -0.97,
+      "pt": -1,
+      "rule": "+1 ≥15% / -1 ≤0%"
+     },
+     {
+      "check": "Doanh thu TTM YoY %",
+      "value": -4.67,
+      "pt": -1,
+      "rule": "+1 ≥10% / -1 ≤0%"
+     }
+    ]
+   },
+   {
+    "group": "Chất lượng",
+    "score": 2,
+    "checks": [
+     {
+      "check": "ROE TTM %",
+      "value": 23.49,
+      "pt": 1,
+      "rule": "+1 ≥15% / -1 ≤8%"
+     },
+     {
+      "check": "Nợ vay ròng/VCSH %",
+      "value": -21.33,
+      "pt": 1,
+      "rule": "+1 ≤30% / -1 ≥100%"
+     },
+     {
+      "check": "CFO TTM / LNST TTM",
+      "value": 0.65,
+      "pt": 0,
+      "rule": "+1 ≥0.8 / -1 ≤0.3"
+     }
+    ]
+   },
+   {
+    "group": "Định giá",
+    "score": 2,
+    "checks": [
+     {
+      "check": "P/E / trung vị 10N (P/E>0)",
+      "value": 0.79,
+      "pt": 1,
+      "rule": "+1 ≤0.8x / -1 ≥1.2x"
+     },
+     {
+      "check": "P/B percentile 10 năm",
+      "value": 2.88,
+      "pt": 1,
+      "rule": "+1 ≤20 / -1 ≥80"
+     },
+     {
+      "check": "P/E vs ngành %",
+      "value": -33.64,
+      "pt": 1,
+      "rule": "+1 rẻ hơn ≥20% / -1 đắt hơn ≥30%"
+     }
+    ]
+   },
+   {
+    "group": "Bối cảnh thị trường & ngành",
+    "score": 1,
+    "checks": [
+     {
+      "check": "Trạng thái thị trường",
+      "value": "pressure",
+      "pt": 0,
+      "rule": "uptrend +1 / pressure 0 / downtrend -1"
+     },
+     {
+      "check": "Góc phần tư RRG ngành",
+      "value": "improving",
+      "pt": 1,
+      "rule": "leading/improving +1, weakening/lagging -1"
+     },
+     {
+      "check": "Tâm lý trung hạn",
+      "value": 33,
+      "pt": 0,
+      "rule": "+1 ≥60 / -1 ≤25"
+     }
+    ]
+   }
+  ],
+  "total": 8,
+  "max": 16,
+  "verdict": "Tích cực",
+  "subtotals": {
+   "Kỹ thuật & dòng tiền": 5,
+   "Cơ bản & định giá": 2,
+   "Bối cảnh": 1
+  }
+ }
+}
