@@ -1,4 +1,4 @@
-# Kết quả phân tích cổ phiếu khi sử dụng với skill [stock-analysis][https://github.com/hiennguyen9874/pi-starter-kit/blob/main/.pi/skills/stock/stock-analysis/SKILL.md] thông qua mcp [sstock](https://sstock.vn/blog/huong-dan-su-dung-mcp-sstock-vn)
+# Kết quả phân tích cổ phiếu khi sử dụng với skill [stock-analysis](https://github.com/hiennguyen9874/pi-starter-kit/blob/main/.pi/skills/stock/stock-analysis/SKILL.md) thông qua mcp [sstock](https://sstock.vn/blog/huong-dan-su-dung-mcp-sstock-vn)
 
 ## Hướng dẫn sử dụng
 
