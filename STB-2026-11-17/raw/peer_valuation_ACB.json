@@ -1,0 +1,75 @@
+{
+  "tool": "get_stock_valuation",
+  "args": {
+    "symbol": "ACB",
+    "charts": [
+      "pb"
+    ],
+    "resolution": "1M",
+    "from": "2026-11-01",
+    "to": "2026-11-17"
+  },
+  "isError": false,
+  "data": {
+    "symbol": "ACB",
+    "from": "2026-11-01",
+    "to": "2026-11-17",
+    "resolution": "1M",
+    "snapshot": {
+      "pe": 7.338291474149356,
+      "pb": 1.1646595135970366,
+      "eps": 2773.125062106852,
+      "roe": 16.472906590268718,
+      "roa": 1.568139036927614,
+      "marketCap": 118119986825000,
+      "sharesOutstanding": 5804421957
+    },
+    "peSstock": 8.113590081979883,
+    "pbSstock": 1.2877070789150973,
+    "lnstSstock": {
+      "year": 2026,
+      "quarter": 1,
+      "valueTy": 16096.39
+    },
+    "bookValueSstock": {
+      "year": 2026,
+      "quarter": 1,
+      "valueTy": 101420.19
+    },
+    "peSstockLastComputableDate": "2026-07-24",
+    "pbSstockLastComputableDate": "2026-07-24",
+    "dates": [
+      "2026-11-17"
+    ],
+    "marketCap": [
+      118119986824950
+    ],
+    "chartLabels": {
+      "pb": "CHART P/B"
+    },
+    "charts": {
+      "pb": {
+        "pb": [
+          1.16
+        ],
+        "avg3YPb": [
+          1.34
+        ],
+        "bvps": [
+          17473
+        ]
+      }
+    },
+    "notes": [
+      "4 chart pe/pb/peSstock/pbSstock: series là mảng GIÁ TRỊ khớp 1:1 với trục `dates` dùng chung ở cấp cao nhất.",
+      "`marketCap` (Vốn hóa) nằm ở cấp cao nhất vì cả 4 chart đó cùng vẽ nó — tính là 1 series của mỗi chart.",
+      "null = khuyết dữ liệu thật (chưa đủ 4 quý, lỗ, VCSH ≤ 0, kỳ không có điểm), KHÔNG phải 0.",
+      "avg3YPe/avg3YPb là TB trượt 3 năm thật: chuỗi giá được nạp lùi thêm 3 năm trước `from` rồi mới cắt về [from, to], nên thu hẹp `from` KHÔNG làm hẹp cửa sổ trung bình.",
+      "marketCap theo đồng gốc (giống get_price_history) — website hiển thị 'Tỷ' = marketCap / 1e9.",
+      "eps4Q/bvps/epsSstock/bvpsSstock theo đồng/cổ phiếu.",
+      "peSstock/pbSstock/epsSstock/bvpsSstock chỉ tính được tới ~2 quý trước hiện tại (công thức cần 2 quý tương lai). Đông cứng CHỈ áp dụng khi phần đuôi null vì BCTC +2 quý chưa về; null do VCSH ≤ 0 / thiếu phiên giá là khuyết dữ liệu THẬT và giữ nguyên null. P/E: từ sau 2026-07-24 các phiên LẶP LẠI giá trị của phiên đó; P/B: từ sau 2026-07-24 các phiên LẶP LẠI giá trị của phiên đó (giống website + Excel export — KHÔNG phải giá trị tính theo giá hôm nay).",
+      "Đông cứng chỉ áp dụng cho ĐUÔI chuỗi; null ở GIỮA chuỗi vẫn là khuyết dữ liệu thật (VCSH âm, thiếu phiên giá).",
+      "peSstock/pbSstock giữ full precision (khớp website); pe/pb/avg3YPe/avg3YPb làm tròn 2 chữ số — tự làm tròn khi hiển thị."
+    ]
+  }
+}

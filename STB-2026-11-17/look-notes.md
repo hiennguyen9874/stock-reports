@@ -1,0 +1,9 @@
+- 01: Nhịp gãy tháng 10 rồi hồi chữ V lấy lại MA50, nhưng MA50 còn giảm và chưa có xác nhận thanh khoản khớp lệnh bền.
+- 02: RS3 hồi nhanh hơn RS6; chưa tái lập vị thế dẫn đầu trước tháng 10. Hai biểu diễn hiệu suất dùng điểm gốc khác nhau.
+- 03: Ngoại lũy kế giảm từ tháng 3, dòng chủ động cuối kỳ mới quay lên; tự doanh chưa xác nhận.
+- 04: TOI quý lên nhưng LNST không tăng, NIM xuống và dự phòng chi phối.
+- 05: Dịch vụ và tài sản/nguồn vốn liên ngân hàng đổi cơ cấu đột ngột; cần thuyết minh thay vì ngoại suy tăng trưởng.
+- 06: Chu kỳ LNST tăng 2018–2024 gãy ở 2025 dù thu nhập tiếp tục tăng.
+- 07: P/E tăng do lợi nhuận thấp đi cùng P/B tăng premium, không chỉ một hiệu ứng mẫu số.
+- 08: STB đi lagging lên improving gần RS6=50 nhưng ngành còn lagging, HDB/MSB sâu trong leading.
+- 09: VNINDEX tạo đỉnh thấp hơn sau tháng 8–9, tâm lý/lan tỏa chưa theo FTD để xác nhận uptrend.

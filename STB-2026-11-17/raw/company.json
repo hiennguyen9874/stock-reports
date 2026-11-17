@@ -1,0 +1,32 @@
+{
+  "tool": "get_company_tool",
+  "args": {
+    "symbol": "STB"
+  },
+  "isError": false,
+  "data": {
+    "code": "STB",
+    "url": "www.sacombank.com.vn",
+    "sector_id": 24,
+    "id": 1294,
+    "exchange": "HOSE",
+    "mack": "STB",
+    "name": "Ngân hàng thương mại cổ phần Sài Gòn Tài Lộc",
+    "nameEn": "Sai Gon Thuong Tin Commercial Joint Stock Bank",
+    "nameShort": "NH TMCP SG THUONG TIN",
+    "address": "",
+    "website": "www.sacombank.com.vn",
+    "firstDate": "2006-07-12 00:00:00",
+    "updatedDate": "2024-03-30 14:58:36",
+    "sector0Name": "Ngân hàng",
+    "sectorId": 24,
+    "isActive": false,
+    "businessModal": "STB.pdf",
+    "urlYoutube": "https://www.youtube.com/watch?v=jRLgak3Z6lQ",
+    "isRanking": true,
+    "sectorName": "Ngân hàng",
+    "sectorUrlShort": "ngan-hang",
+    "sector": "Ngân hàng",
+    "sectorModal": "sector_24_modal.pdf"
+  }
+}

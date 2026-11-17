@@ -1,0 +1,78 @@
+{
+  "tool": "get_elite_diagnostic",
+  "args": {
+    "symbol": "STB"
+  },
+  "isError": false,
+  "data": {
+    "symbol": "STB",
+    "asOf": "2026-11-17",
+    "isHose": true,
+    "sectorId": 24,
+    "hasData": true,
+    "openEpisode": null,
+    "session": {
+      "date": "2026-11-17",
+      "pillars": 3,
+      "isSuper": false,
+      "pillarsPassed": {
+        "rs": false,
+        "vcr": false,
+        "amfi": true,
+        "tier1": true,
+        "noBear": true
+      },
+      "missingPillars": [
+        "RS (rs3≥80 ∧ rs6≥60)",
+        "VCR (≥1.0)"
+      ],
+      "guardsTripped": [
+        {
+          "guard": 9,
+          "label": "Đang trong cooldown sau guard-5 (20 phiên)",
+          "detail": "cooldown đang hiệu lực tại phiên này"
+        }
+      ],
+      "inExitCooldown": false,
+      "reentryBlocked": false,
+      "values": {
+        "rs3": 70.32,
+        "rs6": 47.87,
+        "vcr": 0.93,
+        "amfi": 0.143,
+        "gtgd20": 213.33,
+        "bear20": false,
+        "bigUp10p": 0,
+        "priceUp5p": 3.3,
+        "dd30p": 0,
+        "dd20p": 0,
+        "da5": 36.32
+      }
+    },
+    "persistence": {
+      "needed": 3,
+      "qualifyingOfLast3": 0,
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "pillars": 3,
+          "blocked": true
+        },
+        {
+          "date": "2026-11-16",
+          "pillars": 3,
+          "blocked": true
+        },
+        {
+          "date": "2026-11-17",
+          "pillars": 3,
+          "blocked": true
+        }
+      ]
+    },
+    "notEliteReasons": [
+      "Chỉ đạt 3/5 trục — điều kiện vào yêu cầu đủ 5/5 (thiếu: RS (rs3≥80 ∧ rs6≥60); VCR (≥1.0)).",
+      "Guard-9: Đang trong cooldown sau guard-5 (20 phiên) — cooldown đang hiệu lực tại phiên này."
+    ]
+  }
+}

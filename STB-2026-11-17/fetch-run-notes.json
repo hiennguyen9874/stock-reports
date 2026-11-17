@@ -1,0 +1,19 @@
+{
+  "initialRuntimeError": "Bridged calls are only allowed while their originating Cell runs",
+  "resolved": true,
+  "finalFetch": {
+    "symbol": "STB",
+    "structure": "bank",
+    "sectorId": 24,
+    "sectorName": "Ngân hàng",
+    "jobs": 23,
+    "failed": [],
+    "notes": [
+      "fa_q: Dữ liệu giới hạn 17 quý gần nhất theo gói của bạn.",
+      "fa_y: Dữ liệu giới hạn từ 2018 theo gói của bạn.",
+      "price: Dữ liệu giới hạn từ 2023-11-18 theo gói của bạn.",
+      "vnindex: Dữ liệu giới hạn từ 2023-11-18 theo gói của bạn.",
+      "market_val: Dữ liệu giới hạn từ 2016-11-19 theo gói của bạn."
+    ]
+  }
+}

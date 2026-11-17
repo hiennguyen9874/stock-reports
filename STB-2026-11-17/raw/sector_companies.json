@@ -1,0 +1,200 @@
+{
+  "tool": "get_sector_companies",
+  "args": {
+    "sector": "24"
+  },
+  "isError": false,
+  "data": {
+    "sector": {
+      "id": 24,
+      "name": "Ngân hàng",
+      "companyCount": 29
+    },
+    "structure": "bank",
+    "totalMarketCap": 2566835.41,
+    "companies": [
+      {
+        "code": "VCB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Ngoại Thương Việt Nam",
+        "marketCap": 435330.67
+      },
+      {
+        "code": "BID",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+        "marketCap": 241125.11
+      },
+      {
+        "code": "CTG",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Công Thương Việt Nam",
+        "marketCap": 240386.94
+      },
+      {
+        "code": "TCB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Kỹ Thương Việt Nam",
+        "marketCap": 224810.87
+      },
+      {
+        "code": "VPB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng",
+        "marketCap": 216000
+      },
+      {
+        "code": "MBB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Quân Đội",
+        "marketCap": 190802.81
+      },
+      {
+        "code": "HDB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh",
+        "marketCap": 145753.65
+      },
+      {
+        "code": "STB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng thương mại cổ phần Sài Gòn Tài Lộc",
+        "marketCap": 135735.53
+      },
+      {
+        "code": "ACB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Á Châu",
+        "marketCap": 118119.99
+      },
+      {
+        "code": "LPB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Lộc Phát Việt Nam",
+        "marketCap": 109633.25
+      },
+      {
+        "code": "MSB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam",
+        "marketCap": 61214.4
+      },
+      {
+        "code": "SHB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Sài Gòn – Hà Nội",
+        "marketCap": 57712
+      },
+      {
+        "code": "SSB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Đông Nam Á",
+        "marketCap": 52552.32
+      },
+      {
+        "code": "VIB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam",
+        "marketCap": 51361.56
+      },
+      {
+        "code": "NVB",
+        "exchange": "HNX",
+        "name": "Ngân hàng Thương mại cổ phần Quốc Dân",
+        "marketCap": 43869.49
+      },
+      {
+        "code": "TPB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Tiên Phong",
+        "marketCap": 40355.21
+      },
+      {
+        "code": "OCB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Phương Đông",
+        "marketCap": 32309.48
+      },
+      {
+        "code": "EIB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Xuất Nhập khẩu Việt Nam",
+        "marketCap": 29710.39
+      },
+      {
+        "code": "NAB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Nam Á",
+        "marketCap": 27201.16
+      },
+      {
+        "code": "ABB",
+        "exchange": "UPCOM",
+        "name": "NHTMCP An Binh",
+        "marketCap": 26672.61
+      },
+      {
+        "code": "VBB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Việt Nam Thương Tín",
+        "marketCap": 17398.62
+      },
+      {
+        "code": "BAB",
+        "exchange": "HNX",
+        "name": "Ngân hàng Thương mại Cổ phần Bắc Á",
+        "marketCap": 11871.27
+      },
+      {
+        "code": "TIN",
+        "exchange": "UPCOM",
+        "name": "CTCP Tai chinh Co phan Tin Viet",
+        "marketCap": 10129.83
+      },
+      {
+        "code": "BVB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Bản Việt",
+        "marketCap": 9948.73
+      },
+      {
+        "code": "PCB",
+        "exchange": "UPCOM",
+        "name": "Cổ phiếu Ngân hàng Thương mại cổ phần Đại chúng Việt Nam",
+        "marketCap": 8183.38
+      },
+      {
+        "code": "PGB",
+        "exchange": "UPCOM",
+        "name": "Ngân hàng thương mại cổ phần Thịnh Vượng và Phát triển",
+        "marketCap": 8120.86
+      },
+      {
+        "code": "VAB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại cổ phần Việt Á",
+        "marketCap": 8118.68
+      },
+      {
+        "code": "KLB",
+        "exchange": "HOSE",
+        "name": "Ngân hàng Thương mại Cổ phần Kiên Long",
+        "marketCap": 7752.03
+      },
+      {
+        "code": "SGB",
+        "exchange": "UPCOM",
+        "name": "NHTM CP Sai Gon Cong Thuong",
+        "marketCap": 4654.57
+      }
+    ],
+    "notes": [
+      "Danh sách ĐẦY ĐỦ 29 công ty đang niêm yết của ngành 'Ngân hàng' — đúng rổ mà get_sector_fa cộng gộp để ra số liệu ngành.",
+      "Mọi chart của ngành đều dùng chung rổ này; không có danh sách riêng theo từng chỉ tiêu (tồn kho, nợ vay, LNST công ty mẹ, biên lợi nhuận gộp, tổng tài sản…).",
+      "marketCap = vốn hóa HIỆN TẠI, đơn vị tỷ đồng, sắp xếp giảm dần.",
+      "Tất cả các mã đều có số liệu vốn hóa.",
+      "Một mã có thể chưa có báo cáo tài chính ở một kỳ cụ thể — khi đó mã đó đóng góp 0 vào kỳ ấy nhưng vẫn thuộc rổ ngành.",
+      "Tiêu chí vào rổ: công ty ĐANG NIÊM YẾT, được SSTOCK xếp hạng, mã 3 ký tự — nên rổ có thể khác danh sách mã của sàn."
+    ]
+  }
+}
