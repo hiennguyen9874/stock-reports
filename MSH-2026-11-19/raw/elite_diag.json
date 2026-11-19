@@ -1,0 +1,71 @@
+{
+  "tool": "get_elite_diagnostic",
+  "args": {
+    "symbol": "MSH"
+  },
+  "isError": false,
+  "data": {
+    "symbol": "MSH",
+    "asOf": "2026-11-18",
+    "isHose": true,
+    "sectorId": 23,
+    "hasData": true,
+    "openEpisode": {
+      "entryDate": "2026-11-17",
+      "dur": 2,
+      "isSuper": true,
+      "pnlPct": 0.4279600570613572
+    },
+    "session": {
+      "date": "2026-11-18",
+      "pillars": 5,
+      "isSuper": true,
+      "pillarsPassed": {
+        "rs": true,
+        "vcr": true,
+        "amfi": true,
+        "tier1": true,
+        "noBear": true
+      },
+      "missingPillars": [],
+      "guardsTripped": [],
+      "inExitCooldown": false,
+      "reentryBlocked": false,
+      "values": {
+        "rs3": 91.17,
+        "rs6": 89.4,
+        "vcr": 1.53,
+        "amfi": 0.138,
+        "gtgd20": 5.84,
+        "bear20": false,
+        "bigUp10p": 0,
+        "priceUp5p": 1.44,
+        "dd30p": -3.03,
+        "dd20p": -3.03,
+        "da5": -2.72
+      }
+    },
+    "persistence": {
+      "needed": 3,
+      "qualifyingOfLast3": 3,
+      "sessions": [
+        {
+          "date": "2026-11-16",
+          "pillars": 5,
+          "blocked": false
+        },
+        {
+          "date": "2026-11-17",
+          "pillars": 5,
+          "blocked": false
+        },
+        {
+          "date": "2026-11-18",
+          "pillars": 5,
+          "blocked": false
+        }
+      ]
+    },
+    "notEliteReasons": []
+  }
+}
