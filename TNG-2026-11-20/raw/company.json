@@ -1,0 +1,32 @@
+{
+  "tool": "get_company_tool",
+  "args": {
+    "symbol": "TNG"
+  },
+  "isError": false,
+  "data": {
+    "code": "TNG",
+    "url": "http://www.tng.vn",
+    "sector_id": 23,
+    "id": 1408,
+    "exchange": "HNX",
+    "mack": "TNG",
+    "name": "Cổ phiếu CTCP Đầu tư và Thương mại TNG",
+    "nameEn": "TNG Investment and Trading JSC",
+    "nameShort": "Đ.tư T.mại TNG",
+    "address": "",
+    "website": "http://www.tng.vn",
+    "firstDate": "2007-11-22 00:00:00",
+    "updatedDate": "2024-03-30 14:58:36",
+    "sector0Name": "May mặc",
+    "sectorId": 23,
+    "isActive": false,
+    "businessModal": "TNG.pdf",
+    "urlYoutube": null,
+    "isRanking": true,
+    "sectorName": "May mặc",
+    "sectorUrlShort": "may-mac",
+    "sector": "May mặc",
+    "sectorModal": "sector_23_modal.pdf"
+  }
+}

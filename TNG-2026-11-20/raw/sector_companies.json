@@ -1,0 +1,230 @@
+{
+  "tool": "get_sector_companies",
+  "args": {
+    "sector": "23"
+  },
+  "isError": false,
+  "data": {
+    "sector": {
+      "id": 23,
+      "name": "May mặc",
+      "companyCount": 34
+    },
+    "structure": "nonfinancial",
+    "totalMarketCap": 30769.99,
+    "companies": [
+      {
+        "code": "VGT",
+        "exchange": "UPCOM",
+        "name": "CTCP - Tap doan Det may Viet Nam",
+        "marketCap": 5500
+      },
+      {
+        "code": "MSH",
+        "exchange": "HOSE",
+        "name": "Công ty Cổ phần May Sông Hồng",
+        "marketCap": 3938.24
+      },
+      {
+        "code": "TET",
+        "exchange": "HNX",
+        "name": "Công ty Cổ phần Bất động sản PRISTIE",
+        "marketCap": 2799.13
+      },
+      {
+        "code": "TNG",
+        "exchange": "HNX",
+        "name": "Cổ phiếu CTCP Đầu tư và Thương mại TNG",
+        "marketCap": 2162.69
+      },
+      {
+        "code": "PPH",
+        "exchange": "UPCOM",
+        "name": "Tong CTCP Phong Phu",
+        "marketCap": 2022.83
+      },
+      {
+        "code": "TCM",
+        "exchange": "HOSE",
+        "name": "Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công",
+        "marketCap": 1758.7
+      },
+      {
+        "code": "VGG",
+        "exchange": "UPCOM",
+        "name": "CTCP May Viet Tien",
+        "marketCap": 1680.21
+      },
+      {
+        "code": "HTG",
+        "exchange": "HOSE",
+        "name": "Tổng Công ty Cổ phần Dệt may Hòa Thọ",
+        "marketCap": 1527.2
+      },
+      {
+        "code": "STK",
+        "exchange": "HOSE",
+        "name": "Công ty Cổ phần Sợi Thế Kỷ",
+        "marketCap": 1159.1
+      },
+      {
+        "code": "GIL",
+        "exchange": "HOSE",
+        "name": "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh",
+        "marketCap": 887.95
+      },
+      {
+        "code": "SGI",
+        "exchange": "UPCOM",
+        "name": "CTCP Đầu tư phát triển Sài Gòn 3 Group",
+        "marketCap": 671.64
+      },
+      {
+        "code": "HDM",
+        "exchange": "UPCOM",
+        "name": "Cổ phiếu CTCP Dệt - May Huế",
+        "marketCap": 643.08
+      },
+      {
+        "code": "M10",
+        "exchange": "UPCOM",
+        "name": "CTCP Tong cong ty May 10",
+        "marketCap": 615.96
+      },
+      {
+        "code": "BDG",
+        "exchange": "UPCOM",
+        "name": "CTCP May mac Binh Duong",
+        "marketCap": 570.4
+      },
+      {
+        "code": "MNB",
+        "exchange": "UPCOM",
+        "name": "Tổng Công ty May Nhà Bè - Công ty cổ phần",
+        "marketCap": 568
+      },
+      {
+        "code": "ADS",
+        "exchange": "HOSE",
+        "name": "Công ty Cổ phần Damsan",
+        "marketCap": 565.32
+      },
+      {
+        "code": "HNI",
+        "exchange": "UPCOM",
+        "name": "CTCP May Huu Nghi",
+        "marketCap": 558.78
+      },
+      {
+        "code": "HUG",
+        "exchange": "UPCOM",
+        "name": "CTCP Tong cty may Hung Yen",
+        "marketCap": 507.3
+      },
+      {
+        "code": "EVE",
+        "exchange": "HOSE",
+        "name": "Công ty Cổ phần Everpia",
+        "marketCap": 363.13
+      },
+      {
+        "code": "TVT",
+        "exchange": "HOSE",
+        "name": "Tổng Công ty Việt Thắng - CTCP",
+        "marketCap": 319.2
+      },
+      {
+        "code": "DM7",
+        "exchange": "UPCOM",
+        "name": "CTCP Dệt May 7",
+        "marketCap": 308.22
+      },
+      {
+        "code": "NTT",
+        "exchange": "UPCOM",
+        "name": "CTCP Det - May Nha Trang",
+        "marketCap": 285
+      },
+      {
+        "code": "SPB",
+        "exchange": "UPCOM",
+        "name": "CTCP Soi Phu Bai",
+        "marketCap": 192.85
+      },
+      {
+        "code": "X20",
+        "exchange": "HNX",
+        "name": "CTCP X20",
+        "marketCap": 175.95
+      },
+      {
+        "code": "TDT",
+        "exchange": "HNX",
+        "name": "CTCP Dau tu va phat trien TDT",
+        "marketCap": 148.16
+      },
+      {
+        "code": "GMC",
+        "exchange": "UPCOM",
+        "name": "CTCP Garmex SaiGon",
+        "marketCap": 141.69
+      },
+      {
+        "code": "AAT",
+        "exchange": "HOSE",
+        "name": "Công ty Cổ phần Tập đoàn Tiên Sơn Thanh Hóa",
+        "marketCap": 127.47
+      },
+      {
+        "code": "HSM",
+        "exchange": "UPCOM",
+        "name": "Tổng Công ty Cổ phần Dệt May Hà Nội",
+        "marketCap": 123
+      },
+      {
+        "code": "KMR",
+        "exchange": "HOSE",
+        "name": "Công ty Cổ phần MIRAE",
+        "marketCap": 119.44
+      },
+      {
+        "code": "SVD",
+        "exchange": "HOSE",
+        "name": "Công ty Cổ phần Đầu tư & Thương mại Vũ Đăng",
+        "marketCap": 117.05
+      },
+      {
+        "code": "THM",
+        "exchange": "UPCOM",
+        "name": "CTCP Tứ Hải Hà Nam",
+        "marketCap": 111.81
+      },
+      {
+        "code": "NDT",
+        "exchange": "UPCOM",
+        "name": "Tổng Công ty Cổ phần Dệt may Nam Định",
+        "marketCap": 71.94
+      },
+      {
+        "code": "FTM",
+        "exchange": "UPCOM",
+        "name": "CTCP Dau tu va phat trien Duc Quan",
+        "marketCap": 20
+      },
+      {
+        "code": "MPT",
+        "exchange": "UPCOM",
+        "name": "Công ty cổ phần Tập đoàn MPT",
+        "marketCap": 8.55
+      }
+    ],
+    "notes": [
+      "Danh sách ĐẦY ĐỦ 34 công ty đang niêm yết của ngành 'May mặc' — đúng rổ mà get_sector_fa cộng gộp để ra số liệu ngành.",
+      "Mọi chart của ngành đều dùng chung rổ này; không có danh sách riêng theo từng chỉ tiêu (tồn kho, nợ vay, LNST công ty mẹ, biên lợi nhuận gộp, tổng tài sản…).",
+      "marketCap = vốn hóa HIỆN TẠI, đơn vị tỷ đồng, sắp xếp giảm dần.",
+      "Tất cả các mã đều có số liệu vốn hóa.",
+      "Một mã có thể chưa có báo cáo tài chính ở một kỳ cụ thể — khi đó mã đó đóng góp 0 vào kỳ ấy nhưng vẫn thuộc rổ ngành.",
+      "Tiêu chí vào rổ: công ty ĐANG NIÊM YẾT, được SSTOCK xếp hạng, mã 3 ký tự — nên rổ có thể khác danh sách mã của sàn."
+    ]
+  }
+}

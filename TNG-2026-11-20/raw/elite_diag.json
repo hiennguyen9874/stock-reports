@@ -1,0 +1,90 @@
+{
+  "tool": "get_elite_diagnostic",
+  "args": {
+    "symbol": "TNG"
+  },
+  "isError": false,
+  "data": {
+    "symbol": "TNG",
+    "asOf": "2026-11-19",
+    "isHose": false,
+    "sectorId": 23,
+    "hasData": true,
+    "openEpisode": null,
+    "session": {
+      "date": "2026-11-19",
+      "pillars": 3,
+      "isSuper": false,
+      "pillarsPassed": {
+        "rs": false,
+        "vcr": true,
+        "amfi": false,
+        "tier1": true,
+        "noBear": true
+      },
+      "missingPillars": [
+        "RS (rs3≥80 ∧ rs6≥60)",
+        "AMFI (>0)"
+      ],
+      "guardsTripped": [
+        {
+          "guard": 2,
+          "label": "Không phải cổ phiếu HOSE 3 ký tự",
+          "detail": "không thoả HOSE/3 ký tự"
+        },
+        {
+          "guard": 5,
+          "label": "Drawdown 30 phiên ≤ −9% (đã rớt từ đỉnh)",
+          "detail": "dd_30p=-12.26%"
+        },
+        {
+          "guard": 9,
+          "label": "Đang trong cooldown sau guard-5 (20 phiên)",
+          "detail": "cooldown đang hiệu lực tại phiên này"
+        }
+      ],
+      "inExitCooldown": false,
+      "reentryBlocked": false,
+      "values": {
+        "rs3": 50.07,
+        "rs6": 63.29,
+        "vcr": 1.21,
+        "amfi": -0.268,
+        "gtgd20": 16.01,
+        "bear20": false,
+        "bigUp10p": 0,
+        "priceUp5p": -1.75,
+        "dd30p": -12.26,
+        "dd20p": -12.26,
+        "da5": -45.1
+      }
+    },
+    "persistence": {
+      "needed": 3,
+      "qualifyingOfLast3": 0,
+      "sessions": [
+        {
+          "date": "2026-11-17",
+          "pillars": 3,
+          "blocked": true
+        },
+        {
+          "date": "2026-11-18",
+          "pillars": 3,
+          "blocked": true
+        },
+        {
+          "date": "2026-11-19",
+          "pillars": 3,
+          "blocked": true
+        }
+      ]
+    },
+    "notEliteReasons": [
+      "Chỉ đạt 3/5 trục — điều kiện vào yêu cầu đủ 5/5 (thiếu: RS (rs3≥80 ∧ rs6≥60); AMFI (>0)).",
+      "Guard-2: Không phải cổ phiếu HOSE 3 ký tự — không thoả HOSE/3 ký tự.",
+      "Guard-5: Drawdown 30 phiên ≤ −9% (đã rớt từ đỉnh) — dd_30p=-12.26%.",
+      "Guard-9: Đang trong cooldown sau guard-5 (20 phiên) — cooldown đang hiệu lực tại phiên này."
+    ]
+  }
+}
